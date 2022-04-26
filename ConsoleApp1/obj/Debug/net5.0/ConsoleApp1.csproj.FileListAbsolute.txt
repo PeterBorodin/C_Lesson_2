@@ -1,0 +1,16 @@
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\OneDrive\QA\GIT\GIT\15\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
