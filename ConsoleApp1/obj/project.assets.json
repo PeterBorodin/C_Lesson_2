@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\QA\\GIT\\GIT\\15\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\OneDrive\\QA\\GIT\\GIT\\16\\C_Lesson_2\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "D:\\OneDrive\\QA\\GIT\\GIT\\15\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\OneDrive\\QA\\GIT\\GIT\\16\\C_Lesson_2\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Hron\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\QA\\GIT\\GIT\\15\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\OneDrive\\QA\\GIT\\GIT\\16\\C_Lesson_2\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hron\\AppData\\Roaming\\NuGet\\NuGet.Config",
