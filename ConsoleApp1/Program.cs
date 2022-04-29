@@ -95,13 +95,13 @@ namespace ConsoleApp1
 
             int i, j, temp;
 
-            temp = triangleHight;
+            temp = triangleHight;                    //temp временная переменная указывающая сколько пробелов перед звездочками
             for (i = 1; i <= triangleHight; i++)
             {
-                for (j = 1; j < temp; j++)
-                    Console.Write(" ");
+                for (j = 1; j < temp; j++)  
+                    Console.Write(" ");              //пишем пробелы вначале
 
-                temp--;
+                temp--;                              //уменьшаем значение временной переменной
                 for (j = 1; j <= 2 * i - 1; j++)
                 {
                     if (j % 2 == 0)
@@ -121,7 +121,7 @@ namespace ConsoleApp1
         {
             int temp;
             //listOfNumbers.Sort();
-            for (int j = 0; j <= listOfNumbers.Count - 2; j++)
+            for (int j = 0; j <= listOfNumbers.Count - 2; j++)  //пузырьковый метод, сравниваются попарно числа и которое больше переносится на правую позицию
             {
                 for (int i = 0; i <= listOfNumbers.Count - j - 2; i++)
                 {
