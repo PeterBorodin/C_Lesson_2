@@ -63,14 +63,18 @@ namespace ConsoleApp1
             int rows = matrixOfIntegers.GetLength(0);
             int cols = matrixOfIntegers.GetLength(1);
             int sum = 0;
+            int sum1 = 0;
             if (rows == cols)
             {
                 for (int i = 0; i < rows; i++)
                 {
                     sum += matrixOfIntegers[i, i];
                     //sum = sum + matrixOfIntegers[i,i];
+                    sum1 += matrixOfIntegers[i, rows - i - 1];  // [0,3-0-1] - [1,3-1-1] - [2,3 -2-1]
+                    //sum1 = sum1 + matrixOfIntegers[i, rows - i - 1];
                 }
-                Console.WriteLine(sum);
+                Console.WriteLine("First diagonal: " + sum);
+                Console.WriteLine("Second diagonal: " + sum1);
 
             }
             else
@@ -153,7 +157,7 @@ namespace ConsoleApp1
             homework.GetCentralElementFromMatrix(matrix2);
             homework.GetSummOfDiagonalsElements(matrix);
             homework.GetSummOfDiagonalsElements(matrix2);
-            homework.StarPrinter(5);
+            homework.StarPrinter(10);
             homework.SortList(list);
         }
 

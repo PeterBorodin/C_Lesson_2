@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\OneDrive\\QA\\GIT\\GIT\\16\\C_Lesson_2\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
         "projectPath": "D:\\OneDrive\\QA\\GIT\\GIT\\16\\C_Lesson_2\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Hron\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\hroni\\.nuget\\packages\\",
         "outputPath": "D:\\OneDrive\\QA\\GIT\\GIT\\16\\C_Lesson_2\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hroni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
